@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/projeto-teste/app" isTestSource="false" packagePrefix="App\" />
+      <sourceFolder url="file://$MODULE_DIR$/projeto-teste/database/factories" isTestSource="false" packagePrefix="Database\Factories\" />
+      <sourceFolder url="file://$MODULE_DIR$/projeto-teste/database/seeders" isTestSource="false" packagePrefix="Database\Seeders\" />
+      <sourceFolder url="file://$MODULE_DIR$/projeto-teste/tests" isTestSource="true" packagePrefix="Tests\" />
+      <sourceFolder url="file://$MODULE_DIR$/projeto-teste/tests/Feature" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/projeto-teste/tests/Unit" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/spec" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/tests" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto-teste/vendor/brick/math" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto-teste/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto-teste/vendor/dflydev/dot-access-data" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto-teste/vendor/doctrine/cache" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto-teste/vendor/doctrine/dbal" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto-teste/vendor/doctrine/deprecations" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto-teste/vendor/doctrine/event-manager" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto-teste/vendor/doctrine/inflector" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto-teste/vendor/doctrine/lexer" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto-teste/vendor/dragonmantank/cron-expression" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto-teste/vendor/egulias/email-validator" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto-teste/vendor/fakerphp/faker" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto-teste/vendor/filp/whoops" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto-teste/vendor/fruitcake/php-cors" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto-teste/vendor/graham-campbell/result-type" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto-teste/vendor/guzzlehttp/guzzle" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto-teste/vendor/guzzlehttp/promises" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto-teste/vendor/guzzlehttp/psr7" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto-teste/vendor/guzzlehttp/uri-template" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto-teste/vendor/hamcrest/hamcrest-php" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto-teste/vendor/laravel/framework" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto-teste/vendor/laravel/pint" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto-teste/vendor/laravel/prompts" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto-teste/vendor/laravel/sail" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto-teste/vendor/laravel/sanctum" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto-teste/vendor/laravel/serializable-closure" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto-teste/vendor/laravel/tinker" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto-teste/vendor/league/commonmark" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto-teste/vendor/league/config" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto-teste/vendor/league/flysystem" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto-teste/vendor/league/flysystem-local" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto-teste/vendor/league/mime-type-detection" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto-teste/vendor/mockery/mockery" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto-teste/vendor/monolog/monolog" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto-teste/vendor/myclabs/deep-copy" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto-teste/vendor/nesbot/carbon" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto-teste/vendor/nette/schema" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto-teste/vendor/nette/utils" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto-teste/vendor/nikic/php-parser" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto-teste/vendor/nunomaduro/collision" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto-teste/vendor/nunomaduro/termwind" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto-teste/vendor/phar-io/manifest" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto-teste/vendor/phar-io/version" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto-teste/vendor/phpoption/phpoption" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto-teste/vendor/phpunit/php-code-coverage" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto-teste/vendor/phpunit/php-file-iterator" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto-teste/vendor/phpunit/php-invoker" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto-teste/vendor/phpunit/php-text-template" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto-teste/vendor/phpunit/php-timer" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto-teste/vendor/phpunit/phpunit" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto-teste/vendor/psr/cache" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto-teste/vendor/psr/clock" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto-teste/vendor/psr/container" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto-teste/vendor/psr/event-dispatcher" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto-teste/vendor/psr/http-client" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto-teste/vendor/psr/http-factory" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto-teste/vendor/psr/http-message" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto-teste/vendor/psr/log" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto-teste/vendor/psr/simple-cache" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto-teste/vendor/psy/psysh" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto-teste/vendor/ralouphie/getallheaders" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto-teste/vendor/ramsey/collection" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto-teste/vendor/ramsey/uuid" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto-teste/vendor/sebastian/cli-parser" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto-teste/vendor/sebastian/code-unit" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto-teste/vendor/sebastian/code-unit-reverse-lookup" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto-teste/vendor/sebastian/comparator" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto-teste/vendor/sebastian/complexity" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto-teste/vendor/sebastian/diff" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto-teste/vendor/sebastian/environment" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto-teste/vendor/sebastian/exporter" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto-teste/vendor/sebastian/global-state" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto-teste/vendor/sebastian/lines-of-code" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto-teste/vendor/sebastian/object-enumerator" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto-teste/vendor/sebastian/object-reflector" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto-teste/vendor/sebastian/recursion-context" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto-teste/vendor/sebastian/type" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto-teste/vendor/sebastian/version" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto-teste/vendor/spatie/backtrace" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto-teste/vendor/spatie/flare-client-php" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto-teste/vendor/spatie/ignition" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto-teste/vendor/spatie/laravel-ignition" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto-teste/vendor/symfony/console" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto-teste/vendor/symfony/css-selector" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto-teste/vendor/symfony/deprecation-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto-teste/vendor/symfony/error-handler" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto-teste/vendor/symfony/event-dispatcher" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto-teste/vendor/symfony/event-dispatcher-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto-teste/vendor/symfony/finder" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto-teste/vendor/symfony/http-foundation" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto-teste/vendor/symfony/http-kernel" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto-teste/vendor/symfony/mailer" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto-teste/vendor/symfony/mime" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto-teste/vendor/symfony/polyfill-ctype" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto-teste/vendor/symfony/polyfill-intl-grapheme" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto-teste/vendor/symfony/polyfill-intl-idn" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto-teste/vendor/symfony/polyfill-intl-normalizer" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto-teste/vendor/symfony/polyfill-mbstring" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto-teste/vendor/symfony/polyfill-php72" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto-teste/vendor/symfony/polyfill-php80" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto-teste/vendor/symfony/polyfill-php83" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto-teste/vendor/symfony/polyfill-uuid" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto-teste/vendor/symfony/process" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto-teste/vendor/symfony/routing" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto-teste/vendor/symfony/service-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto-teste/vendor/symfony/string" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto-teste/vendor/symfony/translation" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto-teste/vendor/symfony/translation-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto-teste/vendor/symfony/uid" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto-teste/vendor/symfony/var-dumper" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto-teste/vendor/symfony/yaml" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto-teste/vendor/theseer/tokenizer" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto-teste/vendor/tijsverkoyen/css-to-inline-styles" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto-teste/vendor/vlucas/phpdotenv" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto-teste/vendor/voku/portable-ascii" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto-teste/vendor/webmozart/assert" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/illuminate/collections" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/illuminate/conditionable" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/illuminate/contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/illuminate/macroable" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/laravel/installer" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/laravel/prompts" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/psr/container" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/psr/simple-cache" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/symfony/console" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/symfony/deprecation-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/symfony/polyfill-ctype" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/symfony/polyfill-intl-grapheme" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/symfony/polyfill-intl-normalizer" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/symfony/polyfill-mbstring" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/symfony/process" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/symfony/service-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/symfony/string" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
