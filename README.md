@@ -11,11 +11,13 @@ PHP >= 8.0
 ### 1. Clonar o repositório
 ```
 git clone https://github.com/ItaloSaid/projeto-teste.git
+cd projeto-teste
 ```
 
 ### 2. Instalar dependências
 ```
 composer install
+composer require --dev phpunit/phpunit ^10
 ```
 
 ### 3. Configurar ambiente
@@ -44,14 +46,8 @@ Execute o servidor de desenvolvimento integrado do Laravel:
 Acesse http://127.0.0.1:8000 no seu navegador para ver o projeto em ação.
 
 ## Testes
-Para garantir que tudo está funcionando conforme o esperado, executar testes é crucial.
 
-#### Executando todos os testes:
-```shell script 
-./vendor/bin/phpunit
-```
- 
-### Executando um teste específico:
+#### Executando um teste:
 ```shell script 
 ./vendor/bin/phpunit tests/Unit/NomeDoTeste.php
 ```
